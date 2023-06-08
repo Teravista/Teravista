@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Just made public few of my repos.
+
+If you are interested at my work you can check out my own projects and those I worked with other peaople.
+Such as ai-classification-algorithms (Python) and cybersecurity-encryption (C#) where I worked with https://github.com/mikibak.
+
+In project 2d-multiplayer-game I am the main contribiutor where I master my C++ skills.
+
+🔭I’m currently working on 2d-multiplayer-game.
+📫How to reach me: https://www.linkedin.com/in/chudyrobert/
 <!--
 **Teravista/Teravista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
